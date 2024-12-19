@@ -14,9 +14,9 @@ This project is dedicated to exploring the application of autoregressive (AR) mo
 During the progress of the project, we have read several relevant articles. Here is a partial list of the reference articles:
 
 ### Image Encoders & Decoders, based on VQ-VAE
-- [VQ-VAE\(Neural Discrete Representation Learning, Arxiv-version\)](https://arxiv.org/pdf/1711.00937) - Code: [https://github.com/example/repo1](https://github.com/example/repo1)
-- [Title of Article 2](https://example.com/article2) - Code: [https://github.com/example/repo2](https://github.com/example/repo2)
-- [Title of Article 3](https://example.com/article3) - Code: [https://github.com/example/repo3](https://github.com/example/repo3)
+- [VQ-VAE](https://arxiv.org/pdf/1711.00937) (*Neural Discrete Representation Learning*, Arxiv-version) | [\[CODE\]](https://github.com/example/repo1)
+- [RQ-VAE](https://arxiv.org/pdf/2203.01941) (*Autoregressive Image Generation using Residual Quantization*, Arxiv-version) | [\[CODE\]](https://github.com/kakaobrain/rq-vae-transformer)
+- [MoVQ-VAE](https://example.com/article3) - Code: [https://github.com/example/repo3](https://github.com/example/repo3)
 
 ### Overall Generation Paradigm
 
