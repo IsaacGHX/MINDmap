@@ -1,4 +1,4 @@
-**# MINDmap
+# MINDmap
 *<span style="color:lightblue;">Faster</span>
 <span style="color:lightpink;">Auto-Regression</span>
 <span style="color:lightgreen;">Image</span>
@@ -7,7 +7,7 @@
 ## I. Project Overview
 This project is dedicated to exploring the application of autoregressive (AR) models in image generation, aiming to achieve several key objectives:
 
-- **<span style="color:lightblue;">Better Results</span>**: By improving and optimizing the relevant mechanisms of autoregressive models, we strive to enhance the quality of generated images, making them more realistic and in line with expectations.
+- **<span style="color:lightblue;">Better Results</font>**: By improving and optimizing the relevant mechanisms of autoregressive models, we strive to enhance the quality of generated images, making them more realistic and in line with expectations.
 - **<span style="color:lightblue;">More Controllable Output</span>**: We are exploring ways to precisely control various attributes of image generation, such as style and content, enabling the generated results to be more customizable.
 - **<span style="color:lightblue;">Faster Inference</span>**: Researching methods that can accelerate the inference process of autoregressive models, reducing the time consumed in generating images and improving efficiency.
 - **<span style="color:lightblue;">In-depth Exploration of the AR Paradigm in Image Generation</span>**: Analyzing the internal working mechanisms of autoregressive models when applied to image generation from a theoretical perspective, providing a solid foundation for subsequent improvements.
@@ -51,5 +51,4 @@ If you are interested in this project, you are welcome to participate in the fol
 ## VI. Contact Us =w=/
 If you have any questions or want to further understand the relevant situation of the project, you can contact us in the following ways :
 
-- **Email**: isaacpfino [at] gmail [dot] com, 
-- **Social Media Accounts**: [Specific Account Information]**
+- **Email**: isaacpfino [at] gmail [dot] com
