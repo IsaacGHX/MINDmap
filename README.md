@@ -28,6 +28,9 @@ During the progress of the project, we have read several relevant articles. Here
 - [VAR](https://arxiv.org/pdf/2404.02905)(*Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction*, Arxiv-version) | [\[CODE\]](https://github.com/FoundationVision/VAR/tree/main)
 - [MAR](https://arxiv.org/pdf/2406.11838)(*Autoregressive Image Generation without Vector Quantization*, Arxiv-version) | [\[CODE\]](https://github.com/LTH14/mar)
 
+### Anything with GPT
+- [Lumina-mGPT](https://arxiv.org/abs/2408.02657)(*Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining*) | [\[CODE\]](https://github.com/Alpha-VLLM/Lumina-mGPT)
+- [Fluid](https://arxiv.org/abs/2410.13863)(*Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens*)
 
 ### Faster
 - [MaskGiT](https://arxiv.org/pdf/2202.04200)(*MaskGIT: Masked Generative Image Transformer*, Arxiv-version) | [\[CODE\]](https://github.com/google-research/maskgit)
