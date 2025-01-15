@@ -17,23 +17,34 @@ This project is dedicated to exploring the application of autoregressive (AR) mo
 During the progress of the project, we have read several relevant articles. Here is a partial list of the reference articles:
 
 ### Image Encoders & Decoders, based on VQ-VAE
-- [VQ-VAE](https://arxiv.org/pdf/1711.00937) (*Neural Discrete Representation Learning*, Arxiv-version) | [\[CODE\]](https://github.com/MishaLaskin/vqvae)
-- [VQ-VAE2](https://arxiv.org/pdf/1906.00446) (*Generating Diverse High-Fidelity Images with VQ-VAE-2*, Arxiv-version) | [\[CODE\]](https://github.com/rosinality/vq-vae-2-pytorch)
-- [VQ-GAN](https://arxiv.org/pdf/2012.09841) (*Taming Transformers for High-Resolution Image Synthesis*, Arxiv-version) | [\[CODE\]](https://github.com/Westlake-AI/VQGAN)
-- [RQ-VAE](https://arxiv.org/pdf/2203.01941) (*Autoregressive Image Generation using Residual Quantization*, Arxiv-version) | [\[CODE\]](https://github.com/kakaobrain/rq-vae-transformer)
-- [MoVQ-VAE](https://arxiv.org/pdf/2209.09002)(*MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation*, Arxiv-version) | [\[CODE\]](https://github.com/ai-forever/MoVQGAN)
+- [VQ-VAE](https://arxiv.org/abs/1711.00937) (*Neural Discrete Representation Learning*, NIPS2017) | [\[CODE\]](https://github.com/MishaLaskin/vqvae)
+- [VQ-VAE2](https://arxiv.org/abs/1906.00446) (*Generating Diverse High-Fidelity Images with VQ-VAE-2*, ArXiv-version) | [\[CODE\]](https://github.com/rosinality/vq-vae-2-pytorch)
+- [VQ-GAN](https://arxiv.org/abs/2012.09841) (*Taming Transformers for High-Resolution Image Synthesis*, ArXiv-version) | [\[CODE\]](https://github.com/Westlake-AI/VQGAN)
+- [RQ-VAE](https://arxiv.org/abs/2203.01941) (*Autoregressive Image Generation using Residual Quantization*, CVPR2022) | [\[CODE\]](https://github.com/kakaobrain/rq-vae-transformer)
+- [MoVQ-VAE](https://arxiv.org/abs/2209.09002)(*MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation*, NIPS2022) | [\[CODE\]](https://github.com/ai-forever/MoVQGAN)
 
 ### Overall Generation Paradigm
-- [LlamaGen](https://arxiv.org/pdf/2406.06525)(*Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation*, Arxiv-version) | [\[CODE\]](https://github.com/FoundationVision/LlamaGen/tree/main)
-- [VAR](https://arxiv.org/pdf/2404.02905)(*Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction*, Arxiv-version) | [\[CODE\]](https://github.com/FoundationVision/VAR/tree/main)
-- [MAR](https://arxiv.org/pdf/2406.11838)(*Autoregressive Image Generation without Vector Quantization*, Arxiv-version) | [\[CODE\]](https://github.com/LTH14/mar)
+- [LlamaGen](https://arxiv.org/abs/2406.06525)(*Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation*, ArXiv-version) | [\[CODE\]](https://github.com/FoundationVision/LlamaGen/tree/main)
+- [VAR](https://arxiv.org/abs/2404.02905)(*Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction*, NIPS 2024 Best) | [\[CODE\]](https://github.com/FoundationVision/VAR/tree/main)
+- [MAR](https://arxiv.org/abs/2406.11838)(*Autoregressive Image Generation without Vector Quantization*, NIPS2024) | [\[CODE\]](https://github.com/LTH14/mar)
+- [RAR](https://arxiv.org/abs/2411.00776)(*Randomized Autoregressive Visual Generation*, ArXiv-version) | [\[CODE\]](https://yucornetto.github.io/projects/rar.html)
+- [Next-patch](https://arxiv.org/abs/2412.15321)(*Next Patch Prediction for Autoregressive Visual Generation*, ArXiv-version) | [\[CODE\]](https://github.com/PKU-YuanGroup/Next-Patch-Prediction)
 
 ### Anything with GPT
 - [Lumina-mGPT](https://arxiv.org/abs/2408.02657)(*Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining*) | [\[CODE\]](https://github.com/Alpha-VLLM/Lumina-mGPT)
 - [Fluid](https://arxiv.org/abs/2410.13863)(*Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens*)
+- [1D-Tokenizer](https://arxiv.org/abs/2410.13863)(*Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens*)
 
 ### Faster
-- [MaskGiT](https://arxiv.org/pdf/2202.04200)(*MaskGIT: Masked Generative Image Transformer*, Arxiv-version) | [\[CODE\]](https://github.com/google-research/maskgit)
+- [MaskGiT](https://arxiv.org/abs/2202.04200)(*MaskGIT: Masked Generative Image Transformer*, ArXiv-version) | [\[CODE\]](https://github.com/google-research/maskgit)
+- [Bitwise-Infinity](https://arxiv.org/abs/2412.04431)(*Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis*, ArXiv-version) | [\[CODE\]](https://github.com/FoundationVision/Infinity)
+- [ZipAR](https://arxiv.org/abs/2412.04062)(*ZipAR: Accelerating Auto-regressive Image Generation through Spatial Locality*, ArXiv-version) | [\[CODE\]](https://github.com/ThisisBillhe/ZipAR)
+
+### Attention
+- [Attention Sink 0](https://arxiv.org/abs/2309.17453)(*Efficient Streaming Language Models with Attention Sinks*, ICLR 2024) | [\[CODE\]](https://github.com/sail-sg/Attention-Sink)
+- [Attention Sink 1](https://arxiv.org/abs/2410.10781)(*When Attention Sink Emerges in Language Models: An Empirical View*, ArXiv-version) | [\[CODE\]](https://github.com/sail-sg/Attention-Sink)
+- [Attention Register](https://arxiv.org/abs/2309.16588)(*Vision Transformers Need Registers*, ICLR 2024) | [\[CODE\]](https://github.com/kyegomez/Vit-RGTS)
+
 
 
 ## III. Current Work Progress
@@ -51,7 +62,7 @@ If you are interested in this project, you are welcome to participate in the fol
 - **Submitting Issues**: If you find problems in the project or have suggestions for improvement, you can submit relevant content at [the specific Issue address (such as the Issue page corresponding to the GitHub repository)].
 - **Contributing Code**: We warmly welcome capable developers to contribute code. The specific code contribution process and specifications can be viewed at [the address of the code contribution guide document (if available)].
 
-## VI. Contact Us =w=/
+## VI. Free to Contact =w=/
 If you have any questions or want to further understand the relevant situation of the project, you can contact us in the following ways :
 
 - **Email**: isaacpfino [at] gmail [dot] com
