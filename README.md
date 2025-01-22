@@ -33,7 +33,7 @@ During the progress of the project, we have read several relevant articles. Here
 ### Anything with GPT
 - [Lumina-mGPT](https://arxiv.org/abs/2408.02657)(*Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining*) | [\[CODE\]](https://github.com/Alpha-VLLM/Lumina-mGPT)
 - [Fluid](https://arxiv.org/abs/2410.13863)(*Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens*)
-- [1D-Tokenizer](https://arxiv.org/abs/2410.13863)(*Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens*)
+- [1D-Tokenizer](https://arxiv.org/abs/2406.07550)(*An Image is Worth 32 Tokens for Reconstruction and Generation*)
 
 ### Faster
 - [MaskGiT](https://arxiv.org/abs/2202.04200)(*MaskGIT: Masked Generative Image Transformer*, ArXiv-version) | [\[CODE\]](https://github.com/google-research/maskgit)
